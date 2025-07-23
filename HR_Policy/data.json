@@ -1,0 +1,65 @@
+{
+  "company": "TechNova Solutions",
+  "last_updated": "2025-07-21",
+  "policies": [
+    {
+      "id": "HR-001",
+      "title": "Code of Conduct",
+      "category": "General",
+      "effective_from": "2023-01-01",
+      "description": "Guidelines outlining professional behavior, ethics, and integrity expected from employees.",
+      "version": "1.2",
+      "status": "active"
+    },
+    {
+      "id": "HR-002",
+      "title": "Leave Policy",
+      "category": "Leave Management",
+      "effective_from": "2024-05-01",
+      "description": "Rules governing various types of employee leaves, including casual, sick, and annual leaves.",
+      "version": "1.0",
+      "status": "active"
+    },
+    {
+      "id": "HR-003",
+      "title": "Work From Home Policy",
+      "category": "Remote Work",
+      "effective_from": "2024-01-01",
+      "description": "Eligibility and expectations for remote work, including equipment usage and work hours.",
+      "version": "1.1",
+      "status": "active"
+    },
+    {
+      "id": "HR-004",
+      "title": "Attendance and Punctuality",
+      "category": "Time Management",
+      "effective_from": "2023-06-01",
+      "description": "Policies related to employee attendance, shift timings, and punctuality standards.",
+      "version": "1.0",
+      "status": "active"
+    },
+    {
+      "id": "HR-005",
+      "title": "Employee Termination Policy",
+      "category": "Employment Lifecycle",
+      "effective_from": "2022-09-15",
+      "description": "Outlines procedures for voluntary and involuntary separation, exit interviews, and final settlement.",
+      "version": "1.3",
+      "status": "active"
+    },
+    {
+      "id": "HR-006",
+      "title": "Equal Employment Opportunity",
+      "category": "Compliance",
+      "effective_from": "2023-11-10",
+      "description": "Affirms the company's commitment to fair treatment, diversity, and non-discrimination.",
+      "version": "1.0",
+      "status": "active"
+    }
+  ],
+  "contact_person": {
+    "name": "Aarati Sharma",
+    "email": "aarati.sharma@technova.com",
+    "role": "HR Manager"
+  }
+}
