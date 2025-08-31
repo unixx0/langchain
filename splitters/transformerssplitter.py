@@ -26,3 +26,4 @@ print(f"No. of tokens: {no_of_tokens}")
 
 splitted_json= splitter.split_documents(docs)
 print(splitted_json)
+
